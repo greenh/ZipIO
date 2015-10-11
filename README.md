@@ -14,5 +14,4 @@ of which
 application needs.
 
 ZipIO is based on the
-[[https://docs.oracle.com/javase/7/docs/technotes/guides/io/fsp/zipfilesystemprovider.html
-zip file system provider]] developed by Oracle as part of the JDK demos.
+[zip file system provider](https://docs.oracle.com/javase/7/docs/technotes/guides/io/fsp/zipfilesystemprovider.html) developed by Oracle as part of the JDK demos.
